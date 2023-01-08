@@ -9,6 +9,7 @@ hypercorn~=0.14
 ipython~=8.7
 MemePy~=1.2
 psycopg2-binary~=2.9
+pyfiglet~=0.8.post1
 python-dateutil~=2.8
 python-dotenv~=0.21
 pytube~=12.1
